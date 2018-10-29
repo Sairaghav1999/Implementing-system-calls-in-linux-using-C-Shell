@@ -12,7 +12,7 @@ the end user. Shell variables store the value of a string or a number for the
 shell to read. Shell scripting can help you create complex programs
 containing conditional statements, loops and functions. The shell is not part
 of system kernel, but uses the system kernel to execute programs, create
-files etc.
+files etc..
 
 #Introduction
 Linux is a high performance, yet completely free, Unix-like operating system that is suitable for
