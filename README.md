@@ -47,7 +47,7 @@ Ubuntu. In addition to these mainstream distributions, numerous specialized dist
 also available, including those optimized for specific types of computers or applications (e.g., for
 use on notebook computers or routers), those for specific languages or countries (e.g., Polish or
 Chinese) and ultra-miniature distributions (some of which can even fit on just a single floppy
-disk, such as muLinux).
+disk, such as muLinux).Doing this change only for hacktoberfest so that i can get a pull request okay bye
 Tools used
 For implementing a custom System Calls:
  C language
