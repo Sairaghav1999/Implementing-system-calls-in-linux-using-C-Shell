@@ -31,8 +31,7 @@ the Linux kernel.
 The use of Linux by individuals, corporations, government agencies and academic institutions
 around the world has been growing swiftly1
 , and many computer experts think that it will
-eventually become the most widely used operating system for many or most types of
-applications.
+eventually become the most widely used operating system for many or most types of applications.
 This rapid growth is a result of several factors including (1) the major advantages that Linux has
 over other operating systems (including over the other Unix-like operating systems and the
 Microsoft Windows family of operating systems), (2) the rapid progress that is being made on
@@ -47,8 +46,7 @@ Ubuntu. In addition to these mainstream distributions, numerous specialized dist
 also available, including those optimized for specific types of computers or applications (e.g., for
 use on notebook computers or routers), those for specific languages or countries (e.g., Polish or
 Chinese) and ultra-miniature distributions (some of which can even fit on just a single floppy
-disk, such as muLinux).Doing this change only for hacktoberfest so that i can get a pull request okay bye
-Tools used
+disk, such as muLinux). The steps shouldnt be skipped at all
 For implementing a custom System Calls:
  C language
  linux shell
